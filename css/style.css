@@ -1,0 +1,71 @@
+.table {
+    border-spacing: 0;
+    border-radius: 8px;
+    margin-left: 100px;
+    margin-top: 100px;
+    overflow: hidden;
+}
+
+.table-titles th{
+    padding: 10px 15px;
+}
+
+.table-titles .Choose-your-plan{
+    background-color: rgb(120,135,171);
+    color: white;
+    font-size: 11px;
+}
+
+.table-titles h3, p {
+    margin: 0;
+}
+
+.table-titles .price {
+    padding: 0;
+    margin-top: 18px;
+    font-size: 30px;
+}
+
+.table-titles .starter{
+    background-color: rgb(79,98,142);
+    color: white;
+}
+
+.table-titles .econom{
+    background-color: rgb(46,65,114);
+    color: white;
+}
+
+.table-titles .standard{
+    background-color: rgb(22,41,85);
+    color: white;
+}
+
+.table-titles .professional{
+    background-color: rgb(6,21,57);
+    color: white;
+}
+
+.table .Amount td, .Bandwidth td, .Email td, .MySQL td, .h-support td, .Support-tickets td{
+    padding: 10px;
+}
+
+.gray {
+    background-color: rgb(219,219,219);
+}
+
+.light-gray {
+    background-color: rgb(236,236,236);
+}
+
+.buttons td {
+    padding: 15px;
+}
+
+.buttons td button {
+    color: rgb(99,98,98);
+    background-color: rgb(211,211,211);
+    border: 1px solid rgb(160,160,160);
+    padding: 7px 25px;
+    font-weight: 600;
+}
